@@ -13,5 +13,5 @@ The first JS project in Professional track - Nanodegree program.
 
 ###### *JavaScript file*
 >Adding dynamic behavior to the Navbar of the landing web page by using:
-- selecting all sections and append them to fragment to overcome the reflow and rebuilt
-- using a scroll event listener to detect the section while scrolling and making smooth motion to each li item.
+-selecting all sections and append them to fragment to overcome the reflow and rebuilt
+-using a scroll event listener to detect the section while scrolling and making smooth motion to each li item.
